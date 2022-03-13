@@ -50,7 +50,7 @@ in week 2 and can be found at
 
 ```
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/Note-Taker)
 
 ### Author
 - [@AbriCS](https://www.github.com/AbriCS)
