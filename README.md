@@ -30,11 +30,17 @@
 
 ```
 
-##  🎞️ Section of CSS
+## 📷 Screenshots
 
-![Section of CSS code]
-<img src="./pic/screen.jpg" />
+Here is a screenshot of the Note-Taker
 
+![Notetaker app](public/assets/images/Notetaker-webview.jpeg)
+                                                                                             
+
+##  🎞️ Short film
+
+
+<iframe src="https://drive.google.com/file/d/1X5PDExa4JDiFZBi-_Jz5HLs--SqrvlJV/preview" width="640" height="480"></iframe>
 
 ```
 ---
@@ -43,14 +49,6 @@ This project is the second bootcamp homework to consolidate learning
 in week 2 and can be found at 
 
 ```
-## 📷 Screenshots
-
-Here is a screenshot of the Note-Taker
-
-![Screenshot of Application]
-                                                
-<img src="./Key.jpg" />
-                                                                                             
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 
