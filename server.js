@@ -1,16 +1,15 @@
 const express = require("express");
 const homeRoutes = require("./Routes/homeRoutes");
-
+const api = require("./Routes/apiRoutes");
 
 const app = express();
-const PORT = process.env.PORT || 80;
-const { v4: uuidv4 } = require("uuid");
-uuidv4();
+const PORT = process.env.PORT || 8080;
 
 //middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
+app.use(api)
 app.use(homeRoutes)
 
 /*app.post("/api/notes", (req, res) => {
