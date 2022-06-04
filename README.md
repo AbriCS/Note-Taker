@@ -40,8 +40,8 @@ Here is a screenshot of the Note-Taker
 ##  🎞️ Short film
 
 
-<iframe src="https://youtu.be/3Y340rdGHE8" width="640" height="480"></iframe>
 
+[Team Profile Generator Video](https://drive.google.com/file/d/1eHlNwNxWwkclkPKnmzeLlTf7wGTSr4L8/view?usp=sharing)
 ```
 ---
 ## Portfolio Project 
